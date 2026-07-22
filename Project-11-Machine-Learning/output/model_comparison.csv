@@ -1,0 +1,6 @@
+Model,MAE,RMSE,R2 Score
+XGBoost,214.23,383.64,0.8635
+LightGBM,215.34,384.44,0.8629
+CatBoost,222.13,392.59,0.857
+Random Forest,228.16,411.31,0.8431
+Linear Regression,305.72,525.59,0.7437
