@@ -1,9 +1,5 @@
 # 📊 Project 10 – Feature Engineering Pipeline
 
-> "Commit to the Lord whatever you do, and He will establish your plans."
->
-> **Proverbs 16:3**
-
 ---
 
 # 📖 Project Overview
